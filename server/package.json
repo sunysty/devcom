@@ -1,14 +1,12 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "server.ts",
   "scripts": {
     "start": "ts-node src/server.ts",
     "dev": "nodemon --exec ts-node ./src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sunysty",
   "license": "ISC",
   "dependencies": {
     "@types/express": "^4.17.16",
