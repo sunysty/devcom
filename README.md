@@ -8,14 +8,13 @@ DEVCOM은 node.js기반의 1인개발로 제작한, 개발자 커뮤니티 사�
 
 ### Stack
 
-|           | FE            | BE                           |
-| --------- | ------------- | ---------------------------- |
-| Language  | `typescript`  | `next.js`                    |
-| Framework | `typescript`  | `nest.js`                    |
-| Server    |               | `express` `morgan` `nodemon` |
-| DB        |               | `postgresSQL` `typeORM`      |
-| Library   |               |                              |
-| CSS       | `tailwindCSS` |                              |
+|                | FE            | BE                      |
+| -------------- | ------------- | ----------------------- |
+| Language       | `typescript`  | `typescript`            |
+| Framework      | `next.js`     | `express`               |
+| Server Library |               | `morgan` `nodemon`      |
+| DB Library     |               | `postgresSQL` `typeORM` |
+| CSS            | `tailwindCSS` |                         |
 
 ### Commit Rule
 
